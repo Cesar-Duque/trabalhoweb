@@ -1,0 +1,16 @@
+{
+    "header": {
+        "button": "Enviar E-mail"
+    },
+    "form": {
+        "title": "Digite seus dados aqui",
+        "name": "Nome",
+        "lastname": "Sobrenome",
+        "email": "E-mail",
+        "password": "Senha",
+        "send": "Enviar"
+    },
+    "footer": {
+        "copyright": "&copy Todos os direitos reservados"
+    }
+}
